@@ -65,6 +65,9 @@ As a **Bank Data Analyst**, I analyzed 20,000+ enriched transaction records cove
 - Use engagement campaigns to improve activity in **underperforming cities** and **low-income segments**.
 - Offer **timely reminders** or flexible payment options to reduce late fee dependency and improve customer experience.
 
+## 📊 Power BI Dashboard
+Click below to view the interactive dashboard:  
+👉 [View Power BI Dashboard](https://app.powerbi.com/links/-LBgCTrqi0?ctid=e38b2e59-9d73-4011-b1bf-263517a9a443&pbi_source=linkShare)
 ---
 
 > Note: This is a challenge dataset provided by ZoomCharts (used for educational and portfolio purposes only).
